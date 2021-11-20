@@ -1,0 +1,30 @@
+{
+  "name": "moodtracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/butterman0613/Moodtracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/butterman0613/Moodtracker/issues"
+  },
+  "homepage": "https://github.com/butterman0613/Moodtracker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^4.2.0",
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {
+    "eslint": "^8.2.0",
+    "eslint-prettier-config": "^1.0.1",
+    "prettier": "^2.4.1"
+  }
+}
